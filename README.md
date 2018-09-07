@@ -11,7 +11,8 @@
         "demoUrl": "",
         "imageUrl": "",
         "codeRepoUrl" : ""
-        "githubId": "",
+        "githubUrl": "",
+        "awatarUrl": "",
         "twitterId": "",
         "submissionDate": "",
         "authorName" : "",
