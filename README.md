@@ -12,7 +12,7 @@
         "imageUrl": "",
         "codeRepoUrl" : ""
         "githubUrl": "",
-        "awatarUrl": "",
+        "avatarUrl": "",
         "twitterId": "",
         "submissionDate": "",
         "authorName" : "",
