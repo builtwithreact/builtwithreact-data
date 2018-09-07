@@ -14,7 +14,8 @@
         "githubId": "",
         "twitterId": "",
         "submissionDate": "",
-        "authorName" : ""
+        "authorName" : "",
+        "tags" : []
     }
 ]
 
