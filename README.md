@@ -9,6 +9,7 @@
         "shortDescription": "",
         "LongDescription": "",
         "demoUrl": "",
+        "imageUrl": "",
         "codeRepoUrl" : ""
         "githubId": "",
         "twitterId": "",
